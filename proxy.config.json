@@ -1,0 +1,8 @@
+{
+  "/api/nexos/*": {
+    "secure": false,
+    "target": "http://localhost:8082",
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
